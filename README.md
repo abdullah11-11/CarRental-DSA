@@ -1,3 +1,2 @@
 
-Welcome to LogicLab! This repository is a collection of innovative projects and experiments in computer science and software development. Dive in to explore creative solutions, cutting-edge technologies, and collaborative coding adventures. Let’s turn ideas into reality!
-
+Car Rental Management System built in Java. This project uses Data Structures and Object-Oriented Programming principles to manage cars, customers, and rental records. Features include vehicle availability tracking, booking, and a simple graphical user interface
